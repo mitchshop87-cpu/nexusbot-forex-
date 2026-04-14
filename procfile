@@ -1,0 +1,3 @@
+worker: python scheduler.py
+web: python bot.py
+.gitignore
